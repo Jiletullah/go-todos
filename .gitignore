@@ -1,0 +1,3 @@
+# Ignore sum and json files
+*.sum
+*.json
